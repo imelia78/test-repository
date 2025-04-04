@@ -1,0 +1,24 @@
+From 314abf714b9301814cd62bed09937237167d0d86 Mon Sep 17 00:00:00 2001
+From: Ilia Melia <ilyamelka2004@gmail.com>
+Date: Sun, 13 Jul 2025 17:32:09 +0400
+Subject: [PATCH] first update first and second lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 0b5e979..e0beb08 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-first
+-second
++first with update in git_1 (first change)
++second with update in git_1 (first_change)
+ third 
+ fourth
+ fifth
+-- 
+2.45.1.windows.1
+

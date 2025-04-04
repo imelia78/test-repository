@@ -1,0 +1,26 @@
+From 66c827ff22fb9080ecf31e67f2f806620e9e1aa0 Mon Sep 17 00:00:00 2001
+From: Ilia Melia <ilyamelka2004@gmail.com>
+Date: Sun, 13 Jul 2025 17:13:12 +0400
+Subject: [PATCH] updated two lines in secondFile.txt in git_1
+
+---
+ secondFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/secondFile.txt b/secondFile.txt
+index 34eb4c8..80a5d00 100644
+--- a/secondFile.txt
++++ b/secondFile.txt
+@@ -1,7 +1,7 @@
+ first
+ second 
+-third
+-fourth
++third with update in git_1
++fourth with update in git_1
+ fifth
+ sixth
+ seventh
+-- 
+2.45.1.windows.1
+
