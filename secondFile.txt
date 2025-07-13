@@ -2,6 +2,8 @@ first
 second 
 third with update in git_1
 fourth with update in git_1
+third after update in git_2
+fourth after update in git_2  
 fifth
 sixth
 seventh
