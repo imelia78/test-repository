@@ -1,7 +1,7 @@
 first with update in git_1 (first change)
 second with update in git_1 (first_change)
-third 
-fourth
+third with update in git_1 (second change)
+fourth with update in git_1 (second change)
 fifth
 sixth
 seventh
