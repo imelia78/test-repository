@@ -1,5 +1,5 @@
-first
-second
+first with update in git_1 (first change)
+second with update in git_1 (first_change)
 third 
 fourth
 fifth
